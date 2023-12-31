@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+body {
+  background-image: url('bg_4k.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%110%;
+  
+}
+legend {
+	text-align: center;
+}
+fieldset {
+	width:25%;
+	height:40%;
+	text-align: center;
+	border: 3px double black;
+	margin: 150px 0 0 150px;
+	background-color:rgb(255, 187, 0,0.3);
+}
+
+#success {
+	font-size:50px;
+	color:black;
+}
